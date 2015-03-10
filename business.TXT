@@ -1,0 +1,13 @@
+<entity-condition list="findrecords2" entity-name="Rack"></entity-condition>
+
+用户界面
+
+业务逻辑
+
+业务：             用户界面（产品）screen                       business
+查找               find                                       调用service
+删除               也在find                                   simple method
+修改               find和update   screen                      simple method
+新建               find 和create  screen                      simple method
+
+
